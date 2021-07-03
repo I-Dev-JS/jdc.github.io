@@ -1,0 +1,61 @@
+	h1
+	{
+		color: black;
+		font-family: monospace;
+	}
+	h2
+	{
+		color: seagreen;
+		font-family: monospace;
+	}
+	p
+	{
+		color: black;
+		font-family: arial;
+	}
+
+	#head
+	{
+		width:  auto;
+		background-color: darkseagreen;
+		text-align: center;
+	    align-items: center;
+	    widows: inherit;
+	}
+
+
+	#H2
+	{
+		width:  auto;
+		text-align: center;
+	}
+	#main
+	{
+	    height: auto;
+	    width: auto;
+	    background-color: darkslategrey;
+	}
+
+	#des
+	{
+	    widows: inherit;
+		font-family: monospace;
+		background-color: darkseagreen;
+		width: auto;
+		text-align: center;
+	}
+
+	#node
+	{
+		widows: inherit;
+		font-family: monospace;
+		background-color: darkseagreen;
+		width: auto;
+		text-align: center;
+	}
+
+	audio
+	{
+	height:"auto;";
+	width:"auto";
+	}
