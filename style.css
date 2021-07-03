@@ -56,6 +56,9 @@
 
 	audio
 	{
-	height:"auto;";
-	width:"auto";
+		height:"auto;";
+		width:"auto";
+	}
+	figure {
+    		margin: 0;
 	}
